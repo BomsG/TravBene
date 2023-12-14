@@ -4,10 +4,10 @@ This is a Traveling application created with Nextjs and Tailwind for frontend, N
 
 ## Geting Started
 
-git clone repo
+git clone https://github.com/BomsG/travbene.git
 
-cd repo
+cd travbene
 
-npm install depedencies
+npm install
 
 node server.js.
